@@ -1,18 +1,15 @@
-## Getting Started
+<h2 align="center">Desafio Programação Orientada a Objetos </h2>
+<div align="center">
+<img height="150em" src="https://hermes.digitalinnovation.one/tracks/3ae0666b-ad40-4952-be45-5b308a77e360.png">
+    <p>Exercício prático realizado durante o bootcamp "GFT Quality Assurance para Mulheres" na plataforma DIO.</p><br>
+    <p>Objetivo: Colocar em prática as principais ferramentas da Orientação a Objetos: abstração, encapsulamento, herança e polimorfismo, através de um projeto Java.</p>
+    <br>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+</div>
 
-## Folder Structure
+<hr>
+<div align="center">
+    <a href="https://github.com/bncblnc"><img height="80" src="https://avatars.githubusercontent.com/u/108829137?v=4"></a>
+   <br/><a href="https://www.linkedin.com/in/bncblnc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+</div>
